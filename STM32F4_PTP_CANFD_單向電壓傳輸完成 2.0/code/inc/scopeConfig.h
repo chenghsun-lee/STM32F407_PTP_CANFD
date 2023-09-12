@@ -1,0 +1,2 @@
+#define TICKS_PER_INT		100
+#define BUFFER_SIZE 2

@@ -1,0 +1,2 @@
+#define SAMPLES_PER_SECOND	4096
+#define TICKS_PER_INT		100
